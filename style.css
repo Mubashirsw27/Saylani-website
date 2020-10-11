@@ -18,6 +18,7 @@ body {
 .intro
 {
     display: inline-block;
+    margin-right: -10px;
 }
 .ch
 {
